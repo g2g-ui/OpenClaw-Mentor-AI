@@ -15,12 +15,12 @@
     {
       "icon": "github",
       "label": { "en": "GitHub Repo", "zh": "GitHub 仓库" },
-      "url": "#"
+      "url": "https://github.com/donkissaofficial-sys/crypto-guardian-ai.git"
     },
     {
       "icon": "play",
-      "label": { "en": "Demo Video", "zh": "演示视频" },
-      "url": "#"
+      "label": { "en": "Live Demo", "zh": "演示视频" },
+      "url": "palegoldenrod-armadillo-515996.hostingersite.com"
     }
   ]
 }
