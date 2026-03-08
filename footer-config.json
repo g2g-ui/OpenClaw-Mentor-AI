@@ -1,0 +1,26 @@
+{
+  "title": {
+    "en": "OpenClaw Mentor AI",
+    "zh": "OpenClaw 导师 AI"
+  },
+  "built": {
+    "en": "Built for Binance OpenClaw AI Challenge",
+    "zh": "为币安 OpenClaw AI 挑战赛而构建"
+  },
+  "purpose": {
+    "en": "Purpose: Help traders avoid emotional trading & learn crypto concepts",
+    "zh": "目的：帮助交易者避免情绪化交易并学习加密概念"
+  },
+  "links": [
+    {
+      "icon": "github",
+      "label": { "en": "GitHub Repo", "zh": "GitHub 仓库" },
+      "url": "#"
+    },
+    {
+      "icon": "play",
+      "label": { "en": "Demo Video", "zh": "演示视频" },
+      "url": "#"
+    }
+  ]
+}
